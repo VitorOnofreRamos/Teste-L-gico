@@ -1,0 +1,14 @@
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q3 - SOMA\bin\Debug\net8.0\Q3 - SOMA.exe
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q3 - SOMA\bin\Debug\net8.0\Q3 - SOMA.deps.json
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q3 - SOMA\bin\Debug\net8.0\Q3 - SOMA.runtimeconfig.json
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q3 - SOMA\bin\Debug\net8.0\Q3 - SOMA.dll
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q3 - SOMA\bin\Debug\net8.0\Q3 - SOMA.pdb
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q3 - SOMA\obj\Debug\net8.0\Q3 - SOMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q3 - SOMA\obj\Debug\net8.0\Q3 - SOMA.AssemblyInfoInputs.cache
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q3 - SOMA\obj\Debug\net8.0\Q3 - SOMA.AssemblyInfo.cs
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q3 - SOMA\obj\Debug\net8.0\Q3 - SOMA.csproj.CoreCompileInputs.cache
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q3 - SOMA\obj\Debug\net8.0\Q3 - SOMA.dll
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q3 - SOMA\obj\Debug\net8.0\refint\Q3 - SOMA.dll
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q3 - SOMA\obj\Debug\net8.0\Q3 - SOMA.pdb
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q3 - SOMA\obj\Debug\net8.0\Q3 - SOMA.genruntimeconfig.cache
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q3 - SOMA\obj\Debug\net8.0\ref\Q3 - SOMA.dll

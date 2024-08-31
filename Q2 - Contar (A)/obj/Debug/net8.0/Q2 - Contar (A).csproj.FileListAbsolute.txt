@@ -1,0 +1,14 @@
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q2 - Contar (A)\bin\Debug\net8.0\Q2 - Contar (A).exe
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q2 - Contar (A)\bin\Debug\net8.0\Q2 - Contar (A).deps.json
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q2 - Contar (A)\bin\Debug\net8.0\Q2 - Contar (A).runtimeconfig.json
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q2 - Contar (A)\bin\Debug\net8.0\Q2 - Contar (A).dll
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q2 - Contar (A)\bin\Debug\net8.0\Q2 - Contar (A).pdb
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q2 - Contar (A)\obj\Debug\net8.0\Q2 - Contar (A).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q2 - Contar (A)\obj\Debug\net8.0\Q2 - Contar (A).AssemblyInfoInputs.cache
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q2 - Contar (A)\obj\Debug\net8.0\Q2 - Contar (A).AssemblyInfo.cs
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q2 - Contar (A)\obj\Debug\net8.0\Q2 - Contar (A).csproj.CoreCompileInputs.cache
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q2 - Contar (A)\obj\Debug\net8.0\Q2 - Contar (A).dll
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q2 - Contar (A)\obj\Debug\net8.0\refint\Q2 - Contar (A).dll
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q2 - Contar (A)\obj\Debug\net8.0\Q2 - Contar (A).pdb
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q2 - Contar (A)\obj\Debug\net8.0\Q2 - Contar (A).genruntimeconfig.cache
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q2 - Contar (A)\obj\Debug\net8.0\ref\Q2 - Contar (A).dll
