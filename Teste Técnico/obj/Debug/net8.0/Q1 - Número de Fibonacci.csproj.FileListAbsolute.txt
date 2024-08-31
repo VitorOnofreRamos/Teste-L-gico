@@ -1,0 +1,14 @@
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\bin\Debug\net8.0\Q1 - Número de Fibonacci.exe
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\bin\Debug\net8.0\Q1 - Número de Fibonacci.deps.json
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\bin\Debug\net8.0\Q1 - Número de Fibonacci.runtimeconfig.json
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\bin\Debug\net8.0\Q1 - Número de Fibonacci.dll
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\bin\Debug\net8.0\Q1 - Número de Fibonacci.pdb
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\obj\Debug\net8.0\Q1 - Número de Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\obj\Debug\net8.0\Q1 - Número de Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\obj\Debug\net8.0\Q1 - Número de Fibonacci.AssemblyInfo.cs
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\obj\Debug\net8.0\Q1 - Número de Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\obj\Debug\net8.0\Q1 - Número de Fibonacci.dll
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\obj\Debug\net8.0\refint\Q1 - Número de Fibonacci.dll
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\obj\Debug\net8.0\Q1 - Número de Fibonacci.pdb
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\obj\Debug\net8.0\Q1 - Número de Fibonacci.genruntimeconfig.cache
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\obj\Debug\net8.0\ref\Q1 - Número de Fibonacci.dll

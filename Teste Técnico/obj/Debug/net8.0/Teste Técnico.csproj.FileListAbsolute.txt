@@ -1,0 +1,14 @@
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\bin\Debug\net8.0\Teste Técnico.exe
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\bin\Debug\net8.0\Teste Técnico.deps.json
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\bin\Debug\net8.0\Teste Técnico.runtimeconfig.json
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\bin\Debug\net8.0\Teste Técnico.dll
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\bin\Debug\net8.0\Teste Técnico.pdb
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\obj\Debug\net8.0\Teste Técnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\obj\Debug\net8.0\Teste Técnico.AssemblyInfoInputs.cache
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\obj\Debug\net8.0\Teste Técnico.AssemblyInfo.cs
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\obj\Debug\net8.0\Teste Técnico.csproj.CoreCompileInputs.cache
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\obj\Debug\net8.0\Teste Técnico.dll
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\obj\Debug\net8.0\refint\Teste Técnico.dll
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\obj\Debug\net8.0\Teste Técnico.pdb
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\obj\Debug\net8.0\Teste Técnico.genruntimeconfig.cache
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Teste Técnico\obj\Debug\net8.0\ref\Teste Técnico.dll

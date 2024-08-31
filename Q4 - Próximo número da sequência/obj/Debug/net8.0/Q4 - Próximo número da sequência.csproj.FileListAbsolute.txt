@@ -1,0 +1,14 @@
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q4 - Próximo número da sequência\bin\Debug\net8.0\Q4 - Próximo número da sequência.exe
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q4 - Próximo número da sequência\bin\Debug\net8.0\Q4 - Próximo número da sequência.deps.json
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q4 - Próximo número da sequência\bin\Debug\net8.0\Q4 - Próximo número da sequência.runtimeconfig.json
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q4 - Próximo número da sequência\bin\Debug\net8.0\Q4 - Próximo número da sequência.dll
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q4 - Próximo número da sequência\bin\Debug\net8.0\Q4 - Próximo número da sequência.pdb
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q4 - Próximo número da sequência\obj\Debug\net8.0\Q4 - Próximo número da sequência.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q4 - Próximo número da sequência\obj\Debug\net8.0\Q4 - Próximo número da sequência.AssemblyInfoInputs.cache
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q4 - Próximo número da sequência\obj\Debug\net8.0\Q4 - Próximo número da sequência.AssemblyInfo.cs
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q4 - Próximo número da sequência\obj\Debug\net8.0\Q4 - Próximo número da sequência.csproj.CoreCompileInputs.cache
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q4 - Próximo número da sequência\obj\Debug\net8.0\Q4 - Próximo número da sequência.dll
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q4 - Próximo número da sequência\obj\Debug\net8.0\refint\Q4 - Próximo número da sequência.dll
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q4 - Próximo número da sequência\obj\Debug\net8.0\Q4 - Próximo número da sequência.pdb
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q4 - Próximo número da sequência\obj\Debug\net8.0\Q4 - Próximo número da sequência.genruntimeconfig.cache
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q4 - Próximo número da sequência\obj\Debug\net8.0\ref\Q4 - Próximo número da sequência.dll

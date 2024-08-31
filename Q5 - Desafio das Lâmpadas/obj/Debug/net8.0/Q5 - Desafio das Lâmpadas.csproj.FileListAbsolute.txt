@@ -1,0 +1,14 @@
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q5 - Desafio das Lâmpadas\bin\Debug\net8.0\Q5 - Desafio das Lâmpadas.exe
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q5 - Desafio das Lâmpadas\bin\Debug\net8.0\Q5 - Desafio das Lâmpadas.deps.json
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q5 - Desafio das Lâmpadas\bin\Debug\net8.0\Q5 - Desafio das Lâmpadas.runtimeconfig.json
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q5 - Desafio das Lâmpadas\bin\Debug\net8.0\Q5 - Desafio das Lâmpadas.dll
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q5 - Desafio das Lâmpadas\bin\Debug\net8.0\Q5 - Desafio das Lâmpadas.pdb
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q5 - Desafio das Lâmpadas\obj\Debug\net8.0\Q5 - Desafio das Lâmpadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q5 - Desafio das Lâmpadas\obj\Debug\net8.0\Q5 - Desafio das Lâmpadas.AssemblyInfoInputs.cache
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q5 - Desafio das Lâmpadas\obj\Debug\net8.0\Q5 - Desafio das Lâmpadas.AssemblyInfo.cs
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q5 - Desafio das Lâmpadas\obj\Debug\net8.0\Q5 - Desafio das Lâmpadas.csproj.CoreCompileInputs.cache
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q5 - Desafio das Lâmpadas\obj\Debug\net8.0\Q5 - Desafio das Lâmpadas.dll
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q5 - Desafio das Lâmpadas\obj\Debug\net8.0\refint\Q5 - Desafio das Lâmpadas.dll
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q5 - Desafio das Lâmpadas\obj\Debug\net8.0\Q5 - Desafio das Lâmpadas.pdb
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q5 - Desafio das Lâmpadas\obj\Debug\net8.0\Q5 - Desafio das Lâmpadas.genruntimeconfig.cache
+C:\Users\Note HP\Documents\WorkSpace\ProjetosVisualStudio\projetosWeb\Teste Técnico\Q5 - Desafio das Lâmpadas\obj\Debug\net8.0\ref\Q5 - Desafio das Lâmpadas.dll
